@@ -40,3 +40,18 @@ Dataset:
 The Iris dataset is a famous dataset in the field of machine learning and consists of three species of iris flowers (Setosa, Versicolor, and Virginica) with four features each (sepal length, sepal width, petal length, and petal width). The dataset is often used for classification tasks. You can find the dataset here.
 
 
+
+
+-The third task is about credit card fraud dataset analysis and classification:
+
+
+Project description:
+
+The Credit Card Fraud Detection project aims to develop a machine-learning model that can identify fraudulent credit card transactions. Credit card fraud is a significant concern for financial institutions and consumers alike, with potentially severe financial consequences. This project leverages machine learning techniques to detect and prevent fraudulent activities, providing enhanced security and peace of mind for credit cardholders.
+
+Dataset:
+
+The project utilizes a dataset containing credit card transaction data.
+Features: The dataset includes various features (columns) that describe each credit card transaction. Some of the common features found in such datasets include:
+Time, Amount, V1, V2, ..., V28. 
+Target Variable: Class. 
